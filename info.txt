@@ -2,3 +2,4 @@ Git is popular SCM tool
 git is fast and lightweight tool
 Added by Usha
 Added by You
+SVN is legacy tool
