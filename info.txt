@@ -1,3 +1,2 @@
 Git is popular SCM tool
 git is fast and lightweight tool
-git is distributed version control tool
