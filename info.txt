@@ -4,5 +4,11 @@ git is fast and lightweight tool
 Added by Usha
 Added by You
 SVN is legacy tool
+<<<<<<< HEAD
 SVN was popular before Git
 Git diff command demo 
+=======
+GIT is a disturbuted control tool
+SVN was popular before Git
+Git is very essential reporsitory tool
+>>>>>>> d9c6e9a149cbb82b36c955fca6f788c748b0501c
