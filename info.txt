@@ -5,3 +5,4 @@ Added by Usha
 Added by You
 SVN is legacy tool
 SVN was popular before Git
+Git is very essential reporsitory tool
