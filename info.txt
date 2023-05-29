@@ -7,3 +7,4 @@ SVN is legacy tool
 GIT is a disturbuted control tool
 SVN was popular before Git
 Git is very essential reporsitory tool
+SVN is outdated
